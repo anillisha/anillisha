@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anil Kumar
-- 👀 I’m interested in Embedde Linux Programming
+- 👀 I’m interested in Embedde Linux Programming.
 - 🌱 I’m currently learning Embedded Linux
-- 💞️ I’m looking to collaborate on Yocto development /kernel Developmnet
+- 💞️ I’m looking to collaborate on Yocto development /kernel Developmnet / NETWORK AND SECURITY STACK DEVELOPMENT.
 - 📫 Email.: anilec.iimtgn@gmail.com
 
 <!---
